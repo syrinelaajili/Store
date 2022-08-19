@@ -1,0 +1,39 @@
+.payment li, .payment li a {
+    display: inline-block;
+    color:  	#B0C4DE;
+    text-decoration: none;
+    margin-right: 3%;
+    margin-top: 1%;
+    list-style: none;
+}
+.header-navbar {
+    background-color: grey;
+}
+.payment {
+    text-align: right;
+    font-size: large;
+    font-weight: bold; 
+}
+.logo {
+    width: 10%;
+    
+}
+.navbar {
+    display: flex !important;
+    list-style: none;
+    flex-basis: 50%;
+}
+.div-navbar {
+    display: flex;
+     
+}
+.navbar a {
+    color:  	#B0C4DE;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;  
+}
+.home
+{
+    margin-left: 45rem;
+}
